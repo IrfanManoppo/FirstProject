@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\wear\\build\\intermediates\\res\\merged\\debug\\layout-v21\\accept_deny_dialog.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\09ed1484d29ca482a64217478c3d0d68cb413ced\\output\\res\\layout-v21\\accept_deny_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\wear\\build\\intermediates\\res\\merged\\debug\\layout-v21\\dismiss_overlay.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\09ed1484d29ca482a64217478c3d0d68cb413ced\\output\\res\\layout-v21\\dismiss_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\wear\\build\\intermediates\\res\\merged\\debug\\layout-v21\\overlay_confirmation.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\09ed1484d29ca482a64217478c3d0d68cb413ced\\output\\res\\layout-v21\\overlay_confirmation.xml"
+    }
+]

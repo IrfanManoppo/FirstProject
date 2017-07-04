@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\tv\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_open.ogg",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\ef88e7fad4839714d856b05799a97f5d5df9021a\\output\\res\\raw\\lb_voice_open.ogg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\tv\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_no_input.ogg",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\ef88e7fad4839714d856b05799a97f5d5df9021a\\output\\res\\raw\\lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\tv\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_success.ogg",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\ef88e7fad4839714d856b05799a97f5d5df9021a\\output\\res\\raw\\lb_voice_success.ogg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\tv\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_failure.ogg",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\ef88e7fad4839714d856b05799a97f5d5df9021a\\output\\res\\raw\\lb_voice_failure.ogg"
+    }
+]

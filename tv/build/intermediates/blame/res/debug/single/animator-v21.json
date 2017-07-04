@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\tv\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_bg_fade_out.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\ef88e7fad4839714d856b05799a97f5d5df9021a\\output\\res\\animator-v21\\lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\tv\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_description_fade_out.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\ef88e7fad4839714d856b05799a97f5d5df9021a\\output\\res\\animator-v21\\lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\tv\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_bg_fade_in.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\ef88e7fad4839714d856b05799a97f5d5df9021a\\output\\res\\animator-v21\\lb_playback_bg_fade_in.xml"
+    }
+]

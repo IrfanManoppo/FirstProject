@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\wear\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\8fc850c105e0285d640b455d7bd83359b562a81b\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\wear\\build\\intermediates\\res\\merged\\debug\\color\\circular_button.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\09ed1484d29ca482a64217478c3d0d68cb413ced\\output\\res\\color\\circular_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\wear\\build\\intermediates\\res\\merged\\debug\\color\\card_grey_text_color.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\09ed1484d29ca482a64217478c3d0d68cb413ced\\output\\res\\color\\card_grey_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\wear\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\8fc850c105e0285d640b455d7bd83359b562a81b\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\wear\\build\\intermediates\\res\\merged\\debug\\color\\card_text_color.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\09ed1484d29ca482a64217478c3d0d68cb413ced\\output\\res\\color\\card_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MyFirstApp\\wear\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\8fc850c105e0285d640b455d7bd83359b562a81b\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]
